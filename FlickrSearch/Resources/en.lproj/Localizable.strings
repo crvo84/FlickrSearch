@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  FlickrSearch
+
+  Created by Carlos Villanueva Ousset on 15/01/21.
+  
+*/
+
+"homeTitle" = "Flickr Search";
+"searchPicturesPlaceholder" = "search photos...";
